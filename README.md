@@ -20,7 +20,7 @@
 | | | |
 |:----------------:| :-------------| :-------------|
 | [**Modifier List**](https://github.com/Symstract/modifier_list)| Modifier list or stack, Popup Menu, Favourite modifiers, Easy control object, Customizable modifier default settings, Auto Smooth is enabled automatically |  |  
-![](https://github.com/Symstract/modifier_list/raw/master/docs/properties_editor_and_sidebar.png =300x200)
+![image](https://github.com/Symstract/modifier_list/raw/master/docs/properties_editor_and_sidebar.png =300x200)
 
 
 | | | |
