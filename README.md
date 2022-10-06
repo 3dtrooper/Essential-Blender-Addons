@@ -21,8 +21,8 @@
 | [**UV-Packer**](https://www.uv-packer.com/blender/)| Texture Baking modes, UV Layout tools (Align, Rectify, Sort, Randomize...), Texel Density tools  |  |  
 | |![5_1](https://user-images.githubusercontent.com/24575719/182044461-a469be12-efe3-423e-835d-94bc5586a4ef.jpg) | |
 | | | |
-| [**Bake Lab**](https://github.com/specoolar/Bakelab-Blender-addon/)| Easy Texture Baking | |  
-| |![]([https://user-images.githubusercontent.com/24575719/182044461-a469be12-efe3-423e-835d-94bc5586a4ef.jpg]) | |
+| [**Bake Lab**](https://github.com/specoolar/Blender-BakeLab2)| Easy Texture Baking | |  
+| |![]([https://github.com/specoolar/Blender-BakeLab2/raw/master/bakelab_thumbnail_text_logo_small.jpg]) | |
 | | | |
 | [**Quick UV Checkers**](https://amanbairwal.gumroad.com/l/QUVCheckers)| Checker texture to help with UV unwrapping |  |  
 | [**Texel-Density-Checker**](https://github.com/mrven/Blender-Texel-Density-Checker)| Checker texture to help with UV unwrapping |  |  
