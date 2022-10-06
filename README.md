@@ -1,5 +1,5 @@
 
-### A list of essential Addons for Blender, to get some of the missing functionality comming from Max or Maya
+### A list of essential Addons for Blender, to get some of the missing functionality coming from Max or Maya
 
 ## Free Addons
 | | | |
@@ -20,6 +20,9 @@
 | | | |
 | [**UV-Packer**](https://www.uv-packer.com/blender/)| Texture Baking modes, UV Layout tools (Align, Rectify, Sort, Randomize...), Texel Density tools  |  |  
 | |![5_1](https://user-images.githubusercontent.com/24575719/182044461-a469be12-efe3-423e-835d-94bc5586a4ef.jpg) | |
+| | | |
+| [**Bake Lab**](https://github.com/specoolar/Bakelab-Blender-addon/)| Easy Texture Baking | |  
+| |![]([https://user-images.githubusercontent.com/24575719/182044461-a469be12-efe3-423e-835d-94bc5586a4ef.jpg]) | |
 | | | |
 | [**Quick UV Checkers**](https://amanbairwal.gumroad.com/l/QUVCheckers)| Checker texture to help with UV unwrapping |  |  
 | [**Texel-Density-Checker**](https://github.com/mrven/Blender-Texel-Density-Checker)| Checker texture to help with UV unwrapping |  |  
@@ -48,6 +51,9 @@
 | | | |
 | [**Batch Render Creator**](https://blender-addons.gumroad.com/l/kAloE) | Automates Blender's rendering tasks |  |  
 | |![13](https://user-images.githubusercontent.com/24575719/182044749-b4721de9-5119-4715-bf14-bf9676774cf2.jpg) | |
+| | | |
+| [**Flamenco**](https://flamenco.blender.org/) | Blender's network rendering tool |  |  
+| |![13](https://flamenco.blender.org/images/flamenco_screenshot_01.webp) | 
 | | | |
 | [**fSpy-Blender**](https://github.com/stuffmatic/fSpy-Blender) | Official fSpy importer for Blender|  |  
 | |![18_1](https://user-images.githubusercontent.com/24575719/182044796-f520a3be-2887-40d4-8161-fe29efb304ca.jpg) | |
